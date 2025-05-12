@@ -54,6 +54,10 @@ There are three permissions below that can be associated with an API key. One or
 Each APIKey can be linked with up to 20 IP addresses.
 API keys with trading or withdrawal permissions that are not bound to IPs will expire after 14 days of inactivity. (API keys in demo trading will not be deleted.)
 
+  <br>
+  <br>
+  <br>
+  
 #### Making Requests
 All private REST requests must contain the following headers:
 
@@ -64,6 +68,10 @@ All private REST requests must contain the following headers:
 
 Request bodies should have content type `application/json` and be in valid JSON format.
 
+  <br>
+  <br>
+  <br>
+  
 ### Login
 #### Request Example
 

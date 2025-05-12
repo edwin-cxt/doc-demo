@@ -1,5 +1,4 @@
 # Overview
-___
 Welcome to our V5 API documentation. OKX provides REST and WebSocket APIs to suit your trading needs.
 
 - For users who complete registration on my.okx.com, please visit https://my.okx.com/docs-v5/en/ for the V5 API documentation.
